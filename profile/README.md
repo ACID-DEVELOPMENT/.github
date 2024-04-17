@@ -10,14 +10,17 @@ ACIDxStudio is dedicated to pushing the boundaries of technology and creating im
 
 Explore our current projects and contributions:
 
-### [Project 1]
+### [ACIDxStudio](https://acidxstudio.com/)
+
+## Getting Started
+
+Follow these instructions to get a copy of ACIDxStudio projects up and running on your local machine for development and testing purposes.
 
 - Description: Brief overview of the project.
 - Features: Highlight key features.
-- Installation: Instructions for setting up and running the project.
 - Usage: How to use the project effectively.
 
-### [Project 2]
+### [GTRP](gtrp.live)
 
 - ...
 
@@ -37,8 +40,8 @@ We welcome contributions from the community! To contribute to ACIDxStudio projec
 
 Connect with us and the community:
 
-- [Website]
-- [Discord]
+- [Website](https://acidxstudio.com/)
+- [Discord](https://discord.gg/Br45nk9bW2)
 - [Twitter]
 - [Email]
 
