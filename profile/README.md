@@ -20,9 +20,6 @@ Follow these instructions to get a copy of ACIDxStudio projects up and running o
 - Features: Highlight key features.
 - Usage: How to use the project effectively.
 
-### [GTRP](gtrp.live)
-
-- ...
 
 ## Getting Started
 
